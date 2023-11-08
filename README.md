@@ -4,7 +4,7 @@ Git commands
 then create the access key
 	
 
-Create the directory using below command. 
+Create the directory using the below command. 
 mkdir project
 cd project
  
