@@ -1,6 +1,6 @@
   ```markdown
 git clone https://github.com/your-username/your-repository.git
-```
+```,
 
 This `git clone` command does the following:
 
